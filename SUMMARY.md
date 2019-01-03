@@ -1,6 +1,6 @@
-# 
+# 目录
 
-* [前言](00-preface.md) 
+* [前言](00-preface.md)
 * [创世纪](01-genesis.md)
 * [出埃及记](02-exodus.md)
 * [利未记](03-leviticus.md)
